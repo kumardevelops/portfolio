@@ -40,7 +40,6 @@ header {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;
 }
 nav ul {
     display: flex;
@@ -109,7 +108,6 @@ main {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;
     letter-spacing: -2px;
     line-height: 1.1;
 }
@@ -180,7 +178,6 @@ h2.section-title {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-fill-color: transparent;
 }
 /* SERVICES */
 .services {

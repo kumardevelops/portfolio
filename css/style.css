@@ -58,12 +58,16 @@ body {
 }
 
 .right-items {
-	max-width: 40%;
+	max-width: 50%;
 	display: flex;
 	align-items: flex-start;
 }
 
 /* Hero-Section */
+
+.hero-section-items {
+    max-width: 64rem;
+}
 
 .hero-heading {
 	font-size: 3.2rem;
@@ -75,7 +79,7 @@ body {
 }
 
 .right-item-image {
-	max-height: 20rem;
+	max-height: 23rem;
 	max-width: auto;
 	align-self: flex-start;
 }
